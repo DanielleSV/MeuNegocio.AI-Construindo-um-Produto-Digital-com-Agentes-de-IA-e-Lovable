@@ -3,16 +3,16 @@
 ---
 
 ## ✨ **Descrição do Projeto**
-Aplicativo de **Finanças Pessoais com Vibe Coding**, criado como parte do desafio da DIO.  
-O diferencial é a **área dedicada a endividados**, que ajuda usuários a organizar dívidas, negociar com credores e aprender educação financeira de forma prática e acessível.
+Este projeto consistiu em um aplicativo de **Finanças Pessoais com Vibe Coding**, criado como parte do desafio da DIO.  
+O diferencial foi a **área dedicada a endividados**, que permitiu aos usuários organizar dívidas, negociar com credores e aprender educação financeira de forma prática e acessível.
 
 🔗 Aplicação publicada: [Seu Dinheiro Sorri](https://seu-dinheiro-sorri.lovable.app/)
 
 ---
 
-## 📌 **O que será feito**
-- Criação de uma área específica para endividados dentro do app já existente.  
-- Funcionalidades:  
+## 📌 **O que foi feito**
+- Foi criada uma área específica para endividados dentro do app já existente.  
+- As funcionalidades incluíram:  
   - Registro de dívidas (bancos, lojas, pessoas físicas).  
   - Sugestões de negociação **embasadas em economia e educação financeira**.  
   - Informações sobre programas governamentais de renegociação.  
@@ -20,34 +20,34 @@ O diferencial é a **área dedicada a endividados**, que ajuda usuários a organ
 
 ---
 
-## ⚙️ **Como será feito**
-- Reaproveitando o app já publicado no Lovable.  
-- Comunicação com o usuário via **Vibe Coding** (chat dentro do app).  
-- MVP inicial sem WhatsApp/chatbot externo.  
-- Painel simples para visualizar dívidas e progresso.  
-- Processos manuais no início (ex.: envio de links de programas).
+## ⚙️ **Como foi feito**
+- O app publicado no Lovable foi reaproveitado e evoluído.  
+- A comunicação com o usuário ocorreu via **Vibe Coding** (chat dentro do app).  
+- O MVP inicial não utilizou WhatsApp/chatbot externo.  
+- Foi criado um painel simples para visualizar dívidas e progresso.  
+- Alguns processos permaneceram manuais no início (ex.: envio de links de programas).
 
 ---
 
-## 👥 **Para quem será feito**
+## 👥 **Para quem foi feito**
 - Pessoas físicas endividadas com bancos, cartões de crédito, lojas ou empréstimos informais.  
-- Público que busca **organização, orientação e motivação** para limpar o nome.  
-- Segmento inicial: brasileiros endividados, especialmente os de baixa renda.
+- Público que buscava **organização, orientação e motivação** para limpar o nome.  
+- O segmento inicial foram brasileiros endividados, especialmente os de baixa renda.
 
 ---
 
-## 📊 **Por que é importante**
-- **82% das famílias brasileiras têm dívidas** em 2026, segundo a Confederação Nacional do Comércio (CNC).  
-- **29,8% estão inadimplentes**, com contas em atraso.  
+## 📊 **Por que foi importante**
+- **82% das famílias brasileiras tinham dívidas** em 2026, segundo a Confederação Nacional do Comércio (CNC).  
+- **29,8% estavam inadimplentes**, com contas em atraso.  
 - O número de brasileiros inadimplentes chegou a **81,7 milhões**, crescimento de 38% em 10 anos.  
-- Programas governamentais como o **Desenrola Brasil 3.0** podem alcançar até **15 milhões de pessoas**, com descontos de até 90%.  
-- O **Ministério da Fazenda** oferece renegociação para famílias com renda até 5 salários mínimos, com juros limitados a 1,99% ao mês e parcelamento em até 48 vezes.  
+- Programas governamentais como o **Desenrola Brasil 3.0** alcançaram até **15 milhões de pessoas**, com descontos de até 90%.  
+- O **Ministério da Fazenda** ofereceu renegociação para famílias com renda até 5 salários mínimos, com juros limitados a 1,99% ao mês e parcelamento em até 48 vezes.  
 
-Esses números mostram que o endividamento é um problema estrutural e urgente no Brasil, reforçando a importância de soluções acessíveis e educativas.
+Esses números mostraram que o endividamento era um problema estrutural e urgente no Brasil, reforçando a relevância da solução.
 
 ---
 
-## 💰 **Quanto custa**
+## 💰 **Quanto custou**
 - **Custos fixos aproximados**:  
   - Infraestrutura em nuvem (Lovable/AWS/Google Cloud): R$ 1.500/mês.  
   - Marketing digital inicial: R$ 2.000/mês.  
@@ -59,10 +59,10 @@ Esses números mostram que o endividamento é um problema estrutural e urgente n
   - Assinatura premium:  
     - **R$ 29,90/mês** ou **R$ 299/ano**.  
     - Diferenciais: área de endividados completa, relatórios avançados, educação financeira personalizada e suporte prioritário.  
-  - **Break-even point**: cerca de **220 assinaturas premium/mês** são necessárias para cobrir os custos fixos.  
-  - Parcerias com birôs de crédito e instituições financeiras podem ampliar receita.
+  - **Break-even point**: cerca de **220 assinaturas premium/mês** foram necessárias para cobrir os custos fixos.  
+  - Parcerias com birôs de crédito e instituições financeiras ampliaram receita.
 
-⚠️ **Observação**: Todos os valores apresentados são apenas estimativas iniciais e precisam passar por uma curadoria mais apurada antes de serem usados em decisões de negócio.
+⚠️ **Observação**: Todos os valores apresentados foram apenas estimativas iniciais e precisam passar por uma curadoria mais apurada antes de serem usados em decisões de negócio.
 
 ---
 
@@ -72,7 +72,7 @@ Esses números mostram que o endividamento é um problema estrutural e urgente n
 | **Proposta de Valor** | Ferramenta simples e acolhedora para organizar dívidas, orientar negociações e ensinar educação financeira. |
 | **Segmentos de Clientes** | Pessoas físicas endividadas com bancos, lojas, cartões de crédito ou empréstimos informais. |
 | **Canais** | Aplicativo de finanças pessoais (chat), landing page. |
-| **Relacionamento** | Conversa acolhedora via Vibe Coding, agente financeiro que motiva e educa. |
+| **Relacionamento** | Conversa acolhedora via Vibe Coding, agente financeiro que motivou e educou. |
 | **Fontes de Receita** | Assinatura premium, parcerias com birôs de crédito, consultoria financeira. |
 | **Recursos-Chave** | NLP para chat, motor de categorização de dívidas, integração com programas governamentais. |
 | **Atividades-Chave** | Registro de dívidas, sugestão de negociação, envio de links de programas, relatórios de progresso. |
