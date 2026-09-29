@@ -3,16 +3,16 @@
 ---
 
 ## ✨ Descrição do Projeto
-Este projeto consistiu em um aplicativo de **Finanças Pessoais com Vibe Coding**, criado como parte do desafio da DIO.  
-O diferencial foi a criação de uma **área dedicada a endividados**, permitindo organizar dívidas, negociar com credores e aprender educação financeira de forma prática e acessível.
+Este projeto consistiu em evoluir um aplicativo de **Finanças Pessoais com Vibe Coding**, criado por mim na primeira etapa do desafio da DIO.  
+O diferencial desta segunda versão foi a criação de uma **área dedicada a endividados**, permitindo organizar dívidas, negociar com credores e aprender educação financeira de forma prática e acessível.
 
 🔗 Aplicação publicada: [My Money Pal](https://seu-dinheiro-sorri-free.lovable.app/)
 
 ---
 
 ## 📌 O que foi feito
-- Foi criada uma área específica para endividados dentro do app já existente.  
-- As funcionalidades incluíram:  
+- A primeira versão do app já havia sido desenvolvida por mim dentro da plataforma Lovable.  
+- Nesta evolução, mantive todas as funcionalidades originais e acrescentei:  
   - Registro de dívidas (bancos, lojas, pessoas físicas).  
   - Sugestões de negociação embasadas em economia e educação financeira.  
   - Informações sobre programas governamentais de renegociação.  
@@ -22,9 +22,9 @@ O diferencial foi a criação de uma **área dedicada a endividados**, permitind
 ---
 
 ## ⚙️ Como foi feito
-- O app inicial foi desenvolvido dentro da própria plataforma **Lovable**.  
-- A primeira versão foi mantida intacta e publicada.  
-- Uma segunda versão foi criada replicando a base anterior e acrescentando a área de endividados.  
+- O app inicial foi criado dentro da própria plataforma **Lovable** por mim.  
+- A primeira versão foi mantida intacta e publicada com seu link próprio.  
+- A segunda versão foi construída replicando a base anterior e acrescentando a área de endividados.  
 - A comunicação com o usuário ocorreu via **Vibe Coding** (chat dentro do app).  
 - Processos não automatizados foram simulados manualmente (ex.: envio de links).  
 
@@ -82,7 +82,7 @@ Esses números mostraram que o endividamento era um problema estrutural e urgent
 
 ## 🚧 Gargalos e Economia de Prompts
 - **Economia de prompts**: como a versão paga da Lovable tem limite de créditos, foi necessário escrever prompts **curtos e objetivos**, evitando repetições desnecessárias.  
-- **Gargalo principal**: o Lovable inicialmente não entendeu que deveria **replicar o projeto anterior** e apenas acrescentar funcionalidades, tentando recriar o app do zero.  
+- **Gargalo principal**: o Lovable inicialmente não entendeu que deveria **replicar o projeto anterior feito por mim** e apenas acrescentar funcionalidades, tentando recriar o app do zero.  
 - **Solução**: incluir no prompt o **link da versão anterior** e instruir explicitamente que o novo projeto deveria partir daquela base.  
 - **Aprendizado**: clareza no prompt é essencial para economizar créditos e garantir que a evolução seja feita corretamente.  
 
@@ -91,8 +91,7 @@ Esses números mostraram que o endividamento era um problema estrutural e urgent
 ## 📷 Prints da Aplicação
 *(Adicione imagens na pasta `prints/` e referencie aqui)*  
 Exemplo:  
-![Tela principal](prints/tela_principal.png)  
-![Área de dívidas](prints/area_dividas.png)
+![Tela principal + Área de Dívidas] https://canva.link/56xy2r2g8r15akx
 
 ---
 
@@ -103,3 +102,7 @@ Exemplo:
 - Documentar gargalos e soluções fortaleceu o projeto como entrega profissional.  
 
 ---
+
+## 📜 Histórico de Versões
+- **Versão 1 (MVP inicial)**: desenvolvida por mim dentro da plataforma Lovable e publicada com link próprio.  
+- **Versão 2 (Evolução com área de endividados)**: também desenvolvida por mim, replicando a base da versão 1 e acrescentando novas funcionalidades.  
